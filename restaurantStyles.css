@@ -1,0 +1,19 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+div {
+    background-color: lemonchiffon;
+}
+a {
+    text-decoration: underline;
+    color: black;
+}
+a:visited {
+    color: orange;
+}
+a:hover {
+    font-weight: bold;
+}
+a:active {
+    text-decoration: none;
+}
